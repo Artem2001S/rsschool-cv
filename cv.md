@@ -37,3 +37,14 @@
     return res;
    }
 ```
+
+## Experience
+   Developed several freelance projects using C# WPF/WinForms + SQL and a portfolio site for a lighting designer.
+
+## Education
+  * I am studying at the 4th year of the college named after Konyaev.
+  * [Codeacademy profile](https://www.codecademy.com/profiles/Sinclerr)
+  * Now I am reading the book [`Functional Web Development with React and Redux`](http://shop.oreilly.com/product/0636920049579.do)
+
+## English
+  My level of English is pre-intermediate.
