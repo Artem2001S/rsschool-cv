@@ -13,6 +13,10 @@ li{
 	margin: 15px 0;
 }
 
+.skill-li{
+	margin: 20px 0;
+}
+
 .container{
   max-width: 1024px;
   margin: 0 auto;
@@ -31,4 +35,14 @@ h1{
 
 .link{
 	color:rgb(50, 50, 255);
+}
+
+.with-background{
+	background-color: rgba(27,31,35,0.05);
+	padding: 7px;
+	border-radius: 3px;
+}
+
+.with-background + .with-background{
+	margin-left: 10px;
 }
